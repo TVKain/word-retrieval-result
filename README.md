@@ -1,1 +1,0 @@
-# Word Retrieval Accuracy Result
